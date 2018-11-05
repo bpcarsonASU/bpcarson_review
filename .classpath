@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Sorting_given_ReviewNew 2/src"/>
+	<classpathentry kind="lib" path="D:/SER 316/Bus Project/DresdenFall2018B/classes/main/resources/json.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
